@@ -4,11 +4,11 @@ using UnityEngine;
 
 /*  Author: hekelele / Github
  *  
- *  Normal Unity Singleton
+ *  Unity Singleton Inherit Version
  *  - inherit it and add it to hierachy
  *  
  *  
- *  version: 0.1
+ *  version: 0.1.1
  *  Last Updated Date: 2021/11/15
  */
 
